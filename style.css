@@ -12,7 +12,7 @@ body {
   color: chocolate;
 }
 
-h2 {
+h1 {
   text-align: center;
   font-family: Copperplate, "Copperplate Gothic Light", fantasy;
   font-size: 40px;
@@ -20,4 +20,16 @@ h2 {
   font-variant: normal;
   font-weight: 500;
   color: mediumblue;
-  line-height: 26.4px;}
+  line-height: 26.4px;
+}
+
+h2 {
+  text-align: center;
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+  font-size: 30px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  color: mediumblue;
+  line-height: 26.4px;
+}
